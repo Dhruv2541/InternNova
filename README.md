@@ -94,6 +94,5 @@ java Task1_HelloWorld
 ```
 ## 👤 Author
 
-**InternNova Intern**
-Java Development
+**InternNova Intern**: Java Development
 - Dhruv Padiya
