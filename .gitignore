@@ -1,0 +1,10 @@
+#skills
+.agents/
+.continue/
+
+.vscode/
+node_modules/
+package-lock.json
+.env
+
+InternNova_Week-1.pdf
